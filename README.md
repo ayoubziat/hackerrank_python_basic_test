@@ -1,1 +1,1 @@
-# hackerrank_python_basic_test
+Hackerrank Python (Basic) Skill Test
